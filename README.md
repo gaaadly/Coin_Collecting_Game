@@ -29,7 +29,7 @@ python main.py
 
 ## 🔄 Game Flow
 1. **Mode Selection**: Choose between 1-player or 2-player mode.
-2. **Rules Screen**: A screen displaying game instructions (image: `rules.png`).
+2. **Rules Screen**: A screen displaying game instructions (![Game Rules](rules.png)).
 3. **Game Start**: Players move to collect coins and avoid or destroy monsters.
 4. **Game Over**: If both players die, the game ends and displays the scores.
 5. **Restart or Exit**:
@@ -38,7 +38,7 @@ python main.py
 
 ## 📷 Screenshots
 
-`Game_screenshot.png`
+![Game Screenshot](Game_screenshot.png)
 
 ## 🛠️ Features
 ✅ Single & Multiplayer Modes  
